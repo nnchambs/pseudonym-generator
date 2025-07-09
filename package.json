@@ -1,0 +1,22 @@
+{
+  "name": "pseudonym-generator",
+  "version": "1.0.0",
+  "description": "A package for generating unique pseudonyms for users across applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnchambs/pseudonym-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnchambs/pseudonym-generator/issues"
+  },
+  "homepage": "https://github.com/nnchambs/pseudonym-generator#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
